@@ -1,5 +1,5 @@
 <p align="center">
-<a href="mailsonfcsilva@gmail" title="Photo"><img src="./assets/mfcs.gif" alt="mfcs" width="400" height="59" /></a>
+<a href="mailsonfcsilva@gmail" title="Photo"><img src="https://github.com/MailsonSilva/MailsonSilva/blob/master/assets/mfcs.gif" alt="mfcs" width="400" height="59" /></a>
 </p>
 
 <p align="center">
