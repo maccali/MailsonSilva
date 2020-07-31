@@ -1,7 +1,6 @@
-
+<p align="center">
+<a href="mailsonfcsilva@gmail" title="Photo"><img src="./assets/mfcs.gif" alt="mfcs" width="400" height="59" /></a>
 </p>
-
-<br />
 
 <p align="center">
   FullSatck-Developer.<br />
