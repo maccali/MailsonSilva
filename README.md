@@ -1,6 +1,4 @@
-<p align="center">
-<a href="mailsonfcsilva@gmail" title="Photo"><img src="https://github.com/MailsonSilva/MailsonSilva/blob/master/assets/mfcs.gif" alt="mfcs" width="400" height="59" /></a>
-</p>
+<h1 align="center">MailsonFcSilva</h1>
 
 <p align="center">
   FullSatck-Developer.<br />
@@ -41,7 +39,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0E76A8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a
-    href="https://www.facebook.com/mailson.fernando.94/" 
+    href="https://www.facebook.com/mailson.fernando.94/"
     alt="Facebook"
     target="blank"
   >
