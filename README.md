@@ -1,7 +1,7 @@
 <h1 align="center">MailsonFcSilva</h1>
 
 <p align="center">
-  FullSatck-Developer.<br />
+  FullStack-Developer.<br />
   <b>🚀🔭👓🎮🎼💻🚲🌌🍕🍝☕🌱</b>
 </p>
 
